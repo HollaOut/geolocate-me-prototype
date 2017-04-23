@@ -1,0 +1,27 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCU-ASAP/web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCU-ASAP/web-app/issues"
+  },
+  "homepage": "https://github.com/UCU-ASAP/web-app#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-svg-sprite": "^1.3.6",
+    "gulp-uglify": "^2.1.0"
+  }
+}
